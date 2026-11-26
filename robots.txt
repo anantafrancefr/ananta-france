@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.ananta-france.fr/sitemap.xml
+Sitemap: https://anantafrancefr.github.io/ananta-france/sitemap.xml
